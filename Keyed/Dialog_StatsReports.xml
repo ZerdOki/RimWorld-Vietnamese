@@ -114,55 +114,55 @@
   <StatsReport_NonToolAttack>Tấn công</StatsReport_NonToolAttack>
 
   <!-- EN: Mined item -->
-  <Stat_MineableThing_Name>TODO</Stat_MineableThing_Name>
+  <Stat_MineableThing_Name>Khai thác vật phẩm</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>TODO</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>Các vật phẩm sẽ có khi được khai thác</Stat_MineableThing_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>TODO</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>Nguồn chủng loài</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
-  <Stat_SourceSpecies_Desc>TODO</Stat_SourceSpecies_Desc>
+  <Stat_SourceSpecies_Desc>Các loài sinh vật mà từ đó đã được thực hiện.</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>TODO</Stat_Stuff_Name>
+  <Stat_Stuff_Name>Đồ đạc</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>TODO</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>Những thứ này được làm bằng. Điều này ảnh hưởng đến nhiều chỉ số khác, bao gồm sát thương vũ khí, áo giáp và vật liệu cách nhiệt, vật phẩm và điểm nhấn xây dựng, vẻ đẹp, giá trị thị trường, và nhiều hơn nữa.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>TODO</Stat_Weapon_Name>
+  <Stat_Weapon_Name>Vũ khí</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>TODO</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>Vũ khí được sử dụng bởi tháp pháo này.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>TODO</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Một vật thể có thể gây ra bao nhiêu sát thương trước khi bị phá hủy.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>TODO</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>Số lượng công việc cần thiết để gỡ cài đặt này.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
-  <Stat_Thing_CreatedAt_Desc>TODO</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_CreatedAt_Desc>Những cơ sở có thể được sử dụng để sản xuất nó.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>TODO</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>Lượng sát thương mà vũ khí này gây ra.\n\n Điều này có thể bị làm chệch hướng hoặc giảm nhẹ bởi áo giáp của mục tiêu.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>TODO</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Số nhân về lượng kinh nghiệm bác sĩ đạt được khi sử dụng kỹ năng để chăm sóc bệnh nhân.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
-  <Stat_Thing_Plant_Attributes_Desc>TODO</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>Các thuộc tính của cái cây này.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>TODO</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>Những bộ phận cơ thể này bao gồm.\n\n Áo giáp không bảo vệ các bộ phận cơ thể mà nó không bao gồm.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
-  <Stat_Thing_Apparel_Layer_Desc>TODO</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>Những lớp trang phục này sẽ che phủ.\n\n Đối với một bộ phận cơ thể nhất định, chỉ có một bộ trang phục có thể được mặc trong mỗi lớp.</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>TODO</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>Độ phì nhiêu của đất tối thiểu mà loại cây này đòi hỏi phải phát triển.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>TODO</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Cây này nhạy cảm như thế nào với độ phì nhiêu của đất.\n\n Độ nhạy thấp có nghĩa là cây sẽ phát triển với tốc độ tương tự trong đất giàu hay nghèo màu mỡ. Độ nhạy cao có nghĩa là cây phát triển chậm trong đất nghèo, nhưng nhanh hơn trong đất giàu.</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
-  <Stat_Thing_Plant_LightRequirement_Desc>TODO</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>Lượng ánh sáng cây này cần để phát triển.</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
-  <Stat_Thing_Plant_LifeSpan_Desc>TODO</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>Tuổi thọ của cây.\n\n Cây tự nhiên chết sau khi chúng đạt đến một độ tuổi nhất định, ngay cả khi không được thu hoạch.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>TODO</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>Lượng sản phẩm mà cây này sẽ mang lại khi thu hoạch.</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Nhiệt độ tối thiểu mà cây này có thể tồn tại.\n\n Nhiệt độ dưới mức này sẽ gây ra thiệt hại theo thời gian.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Nhiệt độ tối đa mà cây này có thể tồn tại.\n\n Nhiệt độ trên mức này sẽ gây ra thiệt hại theo thời gian.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>TODO</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Kỹ năng tối thiểu cần thiết cho một nông dân để trồng cây này.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>TODO</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>Các loại thức ăn mà sinh vật này có khả năng ăn.\n\nCó thể ăn: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
   <Stat_Race_LeatherType_Desc>TODO</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
