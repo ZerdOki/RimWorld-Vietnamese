@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Glow -->
@@ -131,19 +131,19 @@
   <!-- EN: Preparing config data -->
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Chuẩn bị dữ liệu cấu hình</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <!-- EN: Preparing content files -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Chuẩn bị tập tin nội dung</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Tải lên nội dung</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Đang tải lên tập tin xem trước</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <!-- EN: official content -->
-  <ContentSource_OfficialModsFolder>TODO</ContentSource_OfficialModsFolder>
+  <ContentSource_OfficialModsFolder>Nội dung chính thức</ContentSource_OfficialModsFolder>
   <!-- EN: local folder -->
-  <ContentSource_ModsFolder>TODO</ContentSource_ModsFolder>
+  <ContentSource_ModsFolder>Thư mục mods</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
   
@@ -291,25 +291,25 @@
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>TODO</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Không bao giờ</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
-  <AutomaticPauseMode_MajorThreat>TODO</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_MajorThreat>Các mối đe dọa</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>TODO</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Bất kỳ mối đe dọa</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
-  <AutomaticPauseMode_AnyLetter>TODO</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_AnyLetter>Bất kỳ lá thư</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
   <!-- EN: itchy -->
-  <PainCategory_LowPain>TODO</PainCategory_LowPain>
+  <PainCategory_LowPain>ngứa</PainCategory_LowPain>
   <!-- EN: aching -->
-  <PainCategory_MediumPain>TODO</PainCategory_MediumPain>
+  <PainCategory_MediumPain>nhức</PainCategory_MediumPain>
   <!-- EN: painful -->
-  <PainCategory_HighPain>TODO</PainCategory_HighPain>
+  <PainCategory_HighPain>đau đớn</PainCategory_HighPain>
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
-  <ExtraFactionType_HomeFaction>TODO</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HomeFaction>phe nhà</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
-  <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
+  <ExtraFactionType_HostFaction>phe máy chủ từ xa</ExtraFactionType_HostFaction>
 </LanguageData>
